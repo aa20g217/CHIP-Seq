@@ -13,10 +13,10 @@ This repository contains a latch workflow/pipeline for the analysis of the ChIP-
 #### **Input**
 
 * Raw Data
-    - A folder with all fastq.gz files. An example input data is available at https://console.latch.bio/s/343962260275929.
+    - A folder with all fastq.gz files. An example input data (mouse) is available at https://console.latch.bio/s/343962260275929.
     
 * Reference Genome
-    - A reference genome annotation file (.fa.gz file). 
+    - A reference genome annotation file (.fa.gz file). You can load mouse reference genome using load test data feature from latch.
     
 * Control samples
     - File name (space separated) of control samples, if available.
